@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋, I'm Miguel</h1>
+<h3 align="center">A fullstack developer</h3>
 
-<!--
-**miguel-ch/miguel-ch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently **open to work**
+- 🌱 Delving into React/Vue
+- 💬 Ask me about **React/Vue**
+- ❤️ I love to work in a team
+- ⚡ Fun fact: Most of my repos are private
 
-Here are some ideas to get you started:
+### Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="mizanxali | Email" width="36px" src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" />][email]
+[<img align="left" alt="mizanxali | LinkedIn" width="36px" src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" />][linkedin]
+
+[email]: mailto:miguelchaparroriop8@gmail.com
+[linkedin]: https://linkedin.com/in/miguel-ch
