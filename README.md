@@ -5,7 +5,7 @@
 - 🌱 Delving into React/Vue
 - 💬 Ask me about **React/Vue**
 - ❤️ I love to work in a team
-- ⚡ Fun fact: Most of my repos are private
+- ⚡ Fun fact: I enjoy cooking at night
 
 ### Connect with me:
 
