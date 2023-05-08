@@ -1,8 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Miguel</h1>
 <h3 align="center">A fullstack developer</h3>
 
-- 🔭 I’m currently **open to work**
-- 🌱 Delving into React/Vue
+- 🌱 Delving into React/Next/GraphQL
 - 💬 Ask me about **React/Vue**
 - ❤️ I love to work in a team
 - ⚡ Fun fact: I enjoy cooking at night
