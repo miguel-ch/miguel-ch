@@ -4,7 +4,6 @@
 - 🌱 Delving into React/Next/GraphQL
 - 💬 Ask me about **React/Vue**
 - ❤️ I love to work in a team
-- ⚡ Fun fact: I enjoy cooking at night
 
 ### Connect with me:
 
